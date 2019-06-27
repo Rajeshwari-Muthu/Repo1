@@ -1,2 +1,0 @@
-index.html  san.txt  test1.txt
-santosh is my uncle
